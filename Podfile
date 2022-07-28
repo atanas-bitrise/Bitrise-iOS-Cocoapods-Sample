@@ -3,6 +3,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 # Uncomment the next line to define a global platform for your project
 platform :ios, '15.4'
+use_frameworks!
 
 def common_pods
     pod 'Firebase/Core'
