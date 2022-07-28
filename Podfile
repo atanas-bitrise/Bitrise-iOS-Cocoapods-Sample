@@ -6,6 +6,7 @@ platform :ios, '11.7'
 
 def common_pods
     pod 'Firebase/Core'
+    pod 'Braintree'
     #pod 'Firebase/Auth'
     #pod 'Firebase/Firestore'
     #pod 'Firebase/Functions'
