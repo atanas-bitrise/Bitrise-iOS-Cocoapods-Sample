@@ -632,7 +632,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.bitrise.sample.Bitrise-iOS-Cocoapods-Sample";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "Bitrise-iOS-Sample-Wildcard-Dev";
+				PROVISIONING_PROFILE_SPECIFIER = "Atanas Chanev Bitrise iOS 2023";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -654,7 +654,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.bitrise.sample.Bitrise-iOS-Cocoapods-Sample";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "Bitrise-iOS-Sample-Wildcard-Dev";
+				PROVISIONING_PROFILE_SPECIFIER = "Atanas Chanev Bitrise iOS 2023";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
