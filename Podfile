@@ -2,11 +2,11 @@
 source 'https://github.com/CocoaPods/Specs.git'
 
 # Uncomment the next line to define a global platform for your project
-platform :ios, '11.7'
+platform :ios, '15.4'
 
 def common_pods
     pod 'Firebase/Core'
-    pod 'Braintree'
+    pod 'Braintree', '~> 5.10.0'
     #pod 'Firebase/Auth'
     #pod 'Firebase/Firestore'
     #pod 'Firebase/Functions'
