@@ -6,6 +6,7 @@
 //
 
 import XCTest
+import MGSwipeTableCell
 
 class Bitrise_iOS_Cocoapods_SampleUITests: XCTestCase {
 
